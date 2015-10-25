@@ -1,0 +1,9 @@
+{
+  "server" : "1.2.3.4",
+  "server_port" : 1025,
+  "local_address" : "127.0.0.1",
+  "local_port" : 1088,
+  "password" : "csdh78cstc7dscys7csdc",
+  "method" : "chacha20",
+  "obfs" : "plain"
+}
